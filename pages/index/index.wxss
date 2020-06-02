@@ -1,0 +1,47 @@
+.item-container {
+    position: relative;
+}
+
+.back-img{
+    display: block; 
+    background-color: black;
+}
+
+.desc {
+    margin-top: -40rpx;
+    margin-bottom: 10rpx;
+    display: flex;
+    align-items: center;
+}
+
+.desc .right {
+    display: flex;
+    /* 将项目垂直显示，像一个列一样 */
+    flex-direction: column;
+    /* 元素位于纵轴的对称轴中心 */
+    align-items: center;
+}
+
+.desc .faceName {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.myface {
+  /* 块元素，前后带有换行符 */
+    display: block;
+    width: 60rpx;
+    height: 60rpx;
+    border-radius: 30rpx;
+    margin-top: 10rpx;
+    margin-right: 20rpx;
+}
+
+.nickname {
+    font-size: 20rpx;
+    margin-top: 6rpx;
+    margin-right: 20rpx;
+    color: black;
+}

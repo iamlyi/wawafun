@@ -1,0 +1,22 @@
+{
+  "pages": [
+    "pages/userLogin/login",
+    "pages/chooseBgm/chooseBgm",
+    "pages/videotest/videotest",
+    "pages/index/index",
+    
+    "pages/report/report",
+    
+    "pages/videoinfo/videoinfo",
+    "pages/mine/mine",
+    "pages/searchVideo/searchVideo"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#000000",
+    "navigationBarTitleText": "哇哇FUN",
+    "navigationBarTextStyle": "white"
+  },
+  "debug": true,
+  "sitemapLocation": "sitemap.json"
+}

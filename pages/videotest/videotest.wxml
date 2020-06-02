@@ -1,0 +1,35 @@
+<video 
+src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4  "
+muted="{{true}}"
+initial-time="1"
+duration="10"
+controls="{{true}}"
+danmu-list="{{danmuList}}"
+enable-danmu="{{true}}"
+danmu-btn="{{true}}"
+autoplay="{{false}}"
+loop="{{true}}"
+page-gesture="{{true}}"
+direction="-90"
+show-progress="{{true}}"
+show-fullscreen-btn="{{true}}"
+show-play-btn="{{true}}"
+show-center-play-btn="{{true}}"
+enable-progress-gesture="{{true}}"
+bindplay="bindplay"
+bindpause="bindpause"
+  ></video>
+  <!-- 静音播放 -->
+  <!-- 从第一秒开始播放 -->
+  <!-- 指定视频时长 -->
+  <!-- 弹幕列表 -->
+  <!-- 自动播放 -->
+  <!-- 循环播放 -->
+  <!-- 在非全屏模式下，是否启用亮度和音量手势 -->
+  <!-- 设置全屏时的方向，0、90、-90 -->
+  <!-- 是否显示进度条 -->
+  <!-- 是否显示全屏按钮 -->
+  <!-- 底部播放按钮 -->
+  <!-- 中间播放按钮 -->
+  <!-- 控制进度的手势 -->
+  <!-- poster封面图，这里没设置 -->
